@@ -1,0 +1,6 @@
+{
+  "name": "Kanso",
+  "description": "Curated minimalist lifestyle e-commerce shopping app with editorial discovery, smart filtering, wishlist, shopping bag, and checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

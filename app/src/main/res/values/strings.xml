@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Kanso</string>
+    <string name="brand_wordmark">KANSO</string>
+    <string name="brand_tagline">Objects for Quiet Living</string>
+    <string name="nav_discover">Discover</string>
+    <string name="nav_explore">Explore</string>
+    <string name="nav_saved">Saved</string>
+    <string name="nav_bag">Bag</string>
+    <string name="nav_orders">Profile</string>
+    <string name="hero_kicker">AUTUMN / WINTER COLLECTION</string>
+    <string name="hero_title">Sculptural warmth for everyday rituals.</string>
+    <string name="hero_cta">Explore Collection</string>
+    <string name="section_editors_picks">Editor\'s Picks</string>
+    <string name="section_catalog">Curated Objects</string>
+    <string name="search_placeholder">Search ceramics, audio, carry…</string>
+    <string name="empty_search_title">No matching objects</string>
+    <string name="empty_search_subtitle">Try clearing filters or searching another material.</string>
+    <string name="empty_wishlist_title">Your saved edit is empty</string>
+    <string name="empty_wishlist_subtitle">Tap the heart on any piece to curate your personal collection.</string>
+    <string name="empty_bag_title">Your bag is empty</string>
+    <string name="empty_bag_subtitle">Explore handcrafted ceramics, acoustic gear, and daily carry.</string>
+    <string name="action_discover_objects">Discover Objects</string>
+    <string name="action_add_to_bag">Add to Bag</string>
+    <string name="action_added_to_bag">Added to Bag</string>
+    <string name="action_checkout">Proceed to Checkout</string>
+    <string name="action_place_order">Place Order</string>
+    <string name="action_continue_shopping">Continue Shopping</string>
+    <string name="action_view_orders">View Order History</string>
+    <string name="promo_hint">Try code KANSO15 or FREESHIP</string>
+    <string name="order_confirmed_title">Order Confirmed</string>
+    <string name="order_confirmed_subtitle">Thank you for shopping with Kanso. We are preparing your objects with care.</string>
+</resources>
